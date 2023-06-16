@@ -3,8 +3,8 @@
 # checkn1x build script
 # https://asineth.me/checkn1x
 #
-VERSION="1.19.22-fork"
-ROOTFS="https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/aarch64/alpine-minirootfs-3.18.2-aarch64.tar.gz"
+VERSION="1.19.22-fork_x86-64"
+ROOTFS="https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-minirootfs-3.18.2-x86_64.tar.gz"
 CRBINARY="https://assets.checkra.in/downloads/linux/cli/x86_64/dac9968939ea6e6bfbdedeb41d7e2579c4711dc2c5083f91dced66ca397dc51d/checkra1n"
 
 # clean up previous attempts
